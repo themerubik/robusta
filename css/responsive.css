@@ -1,0 +1,49 @@
+@media (width: 1199px) {
+  
+}
+@media (width: 1190px) {
+   
+}
+@media (min-width:992px) and (max-width: 1199px) {
+  
+    
+}
+@media (width: 991px) {
+   
+}
+@media (min-width:767px) and (max-width:991px){
+    
+
+}	
+@media (min-width:319px) and (max-width: 767px) {
+    
+    .dropdown-new .dropdown-menu{
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background: red;
+        opacity: 0;
+        visibility: hidden;
+        transition: all linear 0.3s;
+    }	
+    .dropdown-new.show .dropdown-menu.show{
+        opacity: 1;
+        visibility: visible;
+    }
+    
+}
+
+@media (width:480px) {
+   
+}
+
+
+@media (width:576px) {
+    
+}
+
+
+@media (width:767px) {
+    
+}
+
